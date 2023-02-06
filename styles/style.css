@@ -1,5 +1,5 @@
 .primary {
-    color: #848199;
+    color: #6C6C6C;
 }
 
 .p-margin {
@@ -26,4 +26,8 @@ ul {
 
 .rounder {
     border-radius: 25px;
+}
+
+.shadow-p {
+    margin-left: 50px;
 }
